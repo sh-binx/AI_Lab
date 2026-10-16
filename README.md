@@ -1,7 +1,26 @@
-# AI_Lab
+# AI Lab
 
-이 레포지토리는 머신러닝과 딥러닝 프로젝트에 집중된 개인 연습 공간입니다. 
-최신 머신러닝 알고리즘과 딥러닝 모델을 활용하여 다양한 데이터 과학 문제를 해결하는 데 중점을 두고 있습니다. 
-이곳에서는 데이터 전처리부터 모델 트레이닝, 결과 평가에 이르기까지 전 과정에 대한 실습 코드를 찾아볼 수 있습니다.
+Current engineering notes on AI agents, project memory, and workflow automation at [undefined Labs](https://undefined-labs.dev).
 
-프로젝트는 간단한 분류 작업부터 복잡한 이미지 및 언어 처리 작업에 이르기까지 다양하며, 각 프로젝트는 새로운 기술을 시험하고, 데이터 과학과 머신러닝/딥러닝 능력을 향상시키기 위해 설계되었습니다.
+## Current work
+
+### AI Trend Notifier
+
+A running system that turns source material into a linked Markdown wiki and publishes briefs through a public reader.
+
+- [Open the reader](https://trend.undefined-labs.dev)
+- [Read the October 15, 2026 brief](https://trend.undefined-labs.dev/daily/2026-10-15)
+- [Engineering note: what is publicly observable](notes/ai-trend-notifier.md)
+
+### Agent context and verification
+
+Work on keeping project context available across agent sessions and checking the result of an automated action before marking it complete.
+
+- [Context loading: a measured snapshot](notes/agent-context.md)
+- [Agent harness case study](https://undefined-labs.dev/process/agent-harness)
+
+These notes describe working systems and observations. They are not a release of the underlying private implementations or a model-performance benchmark. Each note separates what was checked from what remains open.
+
+## Earlier learning code
+
+[ML](ML/) and [DL](DL/) contain the original machine-learning and deep-learning exercises. They predate the current projects and are kept as learning history.
