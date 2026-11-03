@@ -1,4 +1,4 @@
-# AI Trend Notifier: a public output of an agent workflow
+# Frontii: a public output of an agent workflow
 
 Checked October 16, 2026.
 

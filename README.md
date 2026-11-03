@@ -4,7 +4,7 @@ Current engineering notes on AI agents, project memory, and workflow automation 
 
 ## Current work
 
-### AI Trend Notifier
+### Frontii
 
 A running system that turns source material into a linked Markdown wiki and publishes briefs through a public reader.
 
